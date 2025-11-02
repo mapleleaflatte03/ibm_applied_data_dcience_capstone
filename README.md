@@ -19,9 +19,7 @@ coursera-capstone-final-project/
 │   └── 5_predictive_analysis.ipynb
 │
 ├── data/                  # Dataset files
-│   ├── automotive_sales.csv
-│   ├── automotive_sales_cleaned.csv
-│   └── sql_results/       # SQL query results
+│   └── automotive_sales.csv  # Main dataset (can be regenerated)
 │
 ├── images/                # Visualization outputs
 │   ├── sales_over_time.png
