@@ -37,23 +37,15 @@ Thumbs.db
 ~$*.docx
 ~$*.xlsx
 
-# SQL results - can be regenerated
-data/sql_results/*.csv
+# Temporary scripts - not for GitHub
+create_presentation.py
+export_pdf.py
+run_notebook5_standalone.py
+BUG_FIXES.md
+HUONG_DAN_TIENG_VIET.md
+RUN_ALL.py
 
-# Generated cleaned dataset - can be regenerated
-data/automotive_sales_cleaned.csv
+# Large HTML files
+visualizations_preview.html
 
-# Python scripts - not needed, code is in notebooks
-src/
-
-# Images - generated from notebooks, not needed in repo
-images/
-
-# Requirements - not needed, dependencies are in README
-requirements.txt
-
-# Large files (optional - uncomment if needed)
-# *.pkl
-# *.h5
-# *.hdf5
 

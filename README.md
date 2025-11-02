@@ -1,12 +1,18 @@
 # IBM Applied Data Science Capstone Project
 
-**Automotive Sales Analytics: Predictive Analysis and Interactive Visualization**
+**SpaceX Launch Success Prediction: Machine Learning & Data Analytics**
 
-**Author:** Son Nguyen
+**Author:** Son Nguyen  
+**Course:** IBM Applied Data Science Capstone (Coursera)  
+**Repository:** https://github.com/mapleleaflatte03/ibm_applied_data_dcience_capstone
 
-## Project Overview
+---
 
-This project presents a comprehensive analysis of automotive sales data, combining exploratory data analysis, predictive modeling, and interactive visualizations. The project was completed as part of the IBM Applied Data Science Capstone course on Coursera.
+## 📋 Project Overview
+
+This project presents a comprehensive analysis of **SpaceX launch data** to predict **first stage landing success**. The analysis utilizes real data from the SpaceX public API, performs exploratory data analysis (EDA), builds predictive classification models, and creates interactive visualizations.
+
+**Main Objective:** Predict whether SpaceX's Falcon 9 first stage will successfully land after launch, which is crucial for cost reduction through rocket reusability.
 
 ## Repository Structure
 
