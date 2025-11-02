@@ -1,6 +1,8 @@
 """
 Create Interactive Folium Map for Automotive Sales Data
 Shows sales by city location on an interactive map
+
+Author: Son Nguyen
 """
 
 import pandas as pd

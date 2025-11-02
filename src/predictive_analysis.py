@@ -1,6 +1,8 @@
 """
 Predictive Analysis for Automotive Sales
 Classification model to predict high/low sales based on features
+
+Author: Son Nguyen
 """
 
 import pandas as pd

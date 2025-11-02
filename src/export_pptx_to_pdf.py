@@ -1,6 +1,8 @@
 """
 Export PowerPoint Presentation to PDF
 Automatically converts .pptx to .pdf using COM automation on Windows
+
+Author: Son Nguyen
 """
 
 import os

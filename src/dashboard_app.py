@@ -1,6 +1,8 @@
 """
 Plotly Dash Dashboard for Automotive Sales Analytics
 Interactive dashboard for data visualization and exploration
+
+Author: Son Nguyen
 """
 
 import pandas as pd

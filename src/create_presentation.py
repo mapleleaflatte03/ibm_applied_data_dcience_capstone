@@ -1,6 +1,8 @@
 """
 Create PowerPoint Presentation for IBM Applied Data Science Capstone
 Generates complete presentation with all required slides and exports to PDF
+
+Author: Son Nguyen
 """
 
 from pptx import Presentation

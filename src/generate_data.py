@@ -1,6 +1,8 @@
 """
 Data Generation Script for IBM Applied Data Science Capstone Project
 Generates synthetic automotive sales dataset with realistic patterns
+
+Author: Son Nguyen
 """
 
 import pandas as pd

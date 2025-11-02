@@ -2,6 +2,8 @@
 
 **Automotive Sales Analytics: Predictive Analysis and Interactive Visualization**
 
+**Author:** Son Nguyen
+
 ## Project Overview
 
 This project presents a comprehensive analysis of automotive sales data, combining exploratory data analysis, predictive modeling, and interactive visualizations. The project was completed as part of the IBM Applied Data Science Capstone course on Coursera.
@@ -269,7 +271,7 @@ Open browser to: `http://localhost:8050`
 
 ## Author
 
-**Your Name**  
+**Son Nguyen**  
 IBM Applied Data Science Certificate Program  
 Coursera
 

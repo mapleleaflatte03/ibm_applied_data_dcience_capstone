@@ -1,6 +1,8 @@
 """
 Create EDA Visualizations for Capstone Project
 Generates all necessary plots for the presentation
+
+Author: Son Nguyen
 """
 
 import pandas as pd

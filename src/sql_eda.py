@@ -1,6 +1,8 @@
 """
 SQL-based EDA for Automotive Sales Data
 Uses pandasql to perform SQL queries on the dataset
+
+Author: Son Nguyen
 """
 
 import pandas as pd
