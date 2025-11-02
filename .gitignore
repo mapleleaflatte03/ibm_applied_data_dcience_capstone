@@ -30,6 +30,11 @@ venv.bak/
 .DS_Store
 Thumbs.db
 
+# Office temporary files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
 # Data files (optional - uncomment if you don't want to push data)
 # *.csv
 # *.xlsx
