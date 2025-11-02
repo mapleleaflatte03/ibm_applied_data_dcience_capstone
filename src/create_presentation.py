@@ -416,9 +416,11 @@ def create_presentation():
         ]
     )
     
-    # Save presentation
-    output_path = os.path.join(project_dir, 'IBM_Capstone_Presentation.pptx')
-    prs.save(output_path)
+    # Save presentation (temporary PPTX for conversion)
+    pptx_path = os.path.join(project_dir, 'IBM_Capstone_Presentation.pptx')
+    prs.save(pptx_path)
+    
+    # Note: PPTX will be automatically converted to PDF and deleted by export_pptx_to_pdf.py
     print(f"\nPresentation created successfully!")
     print(f"Saved to: {output_path}")
     print(f"Total slides: {len(prs.slides)}")

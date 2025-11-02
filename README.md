@@ -41,7 +41,7 @@ coursera-capstone-final-project/
 │
 ├── requirements.txt       # Python dependencies
 ├── README.md             # This file
-└── IBM_Capstone_Presentation.pptx  # Final presentation
+└── IBM_Capstone_Presentation.pdf  # Final presentation (PDF)
 ```
 
 ## Dataset
@@ -190,7 +190,7 @@ Open browser to: `http://localhost:8050`
 
 ### 7. Presentation
 
-**PowerPoint Presentation** (`create_presentation.py`)
+**PDF Presentation** (`create_presentation.py` + `export_pptx_to_pdf.py`)
 - Complete slide deck covering all required sections:
   - Executive Summary
   - Introduction
@@ -245,7 +245,7 @@ Open browser to: `http://localhost:8050`
 ✅ Predictive classification models
 ✅ Interactive Plotly Dash dashboard
 ✅ Interactive Folium map
-✅ Complete PowerPoint presentation (19 slides)
+✅ Complete PDF presentation (19 slides)
 ✅ Comprehensive README
 
 ## How to Submit
@@ -256,8 +256,7 @@ Open browser to: `http://localhost:8050`
    - Include link in Coursera submission
 
 2. **Presentation**:
-   - Open `IBM_Capstone_Presentation.pptx`
-   - Save as PDF (File → Save As → PDF)
+   - File `IBM_Capstone_Presentation.pdf` is ready
    - Upload PDF to Coursera
 
 3. **Dashboard Screenshots**:
