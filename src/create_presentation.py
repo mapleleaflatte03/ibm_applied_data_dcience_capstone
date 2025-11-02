@@ -422,8 +422,9 @@ def create_presentation():
     
     # Note: PPTX will be automatically converted to PDF and deleted by export_pptx_to_pdf.py
     print(f"\nPresentation created successfully!")
-    print(f"Saved to: {output_path}")
+    print(f"Saved to: {pptx_path}")
     print(f"Total slides: {len(prs.slides)}")
+    print(f"Note: Run export_pptx_to_pdf.py to convert to PDF")
     
     return prs
 
